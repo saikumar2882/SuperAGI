@@ -36,3 +36,7 @@ The provided code tells that the directory /home/tejavathsaikumar/models/gpt2 co
 ### step-3:
 ![image](https://github.com/saikumar2882/SuperAGI/assets/76247735/cd8641be-2838-475b-a48b-3b3fb8154454)
 the above is used to predict the ouput and print in the console
+### step-4:
+run the model and output of the model:
+![image](https://github.com/saikumar2882/SuperAGI/assets/76247735/696b6ca4-ded7-471e-bee8-bb1334da7a86)
+The model was finetune on our own data set and produced the result in above fig.
