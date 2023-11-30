@@ -9,7 +9,7 @@ GPT2-small model (with 125 million parameters) model has downloaded form hugging
 
 ## Stage-1: 
  start with basic gpt2 model using gpt-2(small) and predicting the ouput, the tokenizier used in this is same gpt-2
- ![image](https://github.com/saikumar2882/SuperAGI/assets/76247735/9dc95054-0b55-43e9-b52d-0f91a7c1548b)
+![image](https://github.com/saikumar2882/SuperAGI/assets/76247735/319451bc-8eed-40e1-b6e1-cda3e0454c5f)
 
 ## stage-2
   Downloaded the gpt-2 small model and using same as tokenizier and predicting the ouput and able to fine tune on our own dataset and able to produce ouput
